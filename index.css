@@ -1,0 +1,41 @@
+body {background-color: rgb(247, 247, 247)
+    
+}
+
+.jumbotron {background-color: rgb(247, 247, 247)
+
+}
+
+.media {margin: 50px;}
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+
+}
+
+button { margin: 30px;
+
+}
+
+/* .btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+} */
+
+
+/* collected colors 
+192 199 239
+
+209 159 148
+
+rgb(223, 155, 190) */
