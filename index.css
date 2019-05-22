@@ -197,9 +197,13 @@ body {
   }
 
   .second-slide{
+    opacity: 0.6
+  }
+  .third-slide {
     opacity: 0.5
   }
-  
+ 
+
   .fourth-slide {
     opacity: 0.7
   }
@@ -232,9 +236,6 @@ body {
 
  }
 
- .third-slide {
-   opacity: 0.7
- }
 
 
  p {
